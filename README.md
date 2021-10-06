@@ -5,3 +5,7 @@
 * Jens De Bock
 * Justin Owen - Andriller
 * Mackenzie Bishop - AFLogical OSE
+# GitHub Pages
+# Resource Links
+AFLogical OSE Repo for Download: https://github.com/nowsecure/android-forensics
+# Credits
