@@ -4,4 +4,4 @@
 * Emma Sabio -Skype Xtractor
 * Jens De Bock
 * Justin Owen - Andriller
-* Mackenzie Bishop
+* Mackenzie Bishop - AFLogical OSE
