@@ -7,6 +7,6 @@
 * Mackenzie Bishop - AFLogical OSE
 # GitHub Pages
 # Resource Links
-Various tools for Android forensics: https://www.incibe-cert.es/en/blog/mobile-forensic-analyses-tools
+Various tools for Android forensics: https://www.incibe-cert.es/en/blog/mobile-forensic-analyses-tools \
 AFLogical OSE Repo for Download: https://github.com/nowsecure/android-forensics
 # Credits
