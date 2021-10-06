@@ -2,7 +2,7 @@
 44386-01 Digital Forensics
 # Group Members:
 * Emma Sabio -Skype Xtractor
-* Jens De Bock
+* Jens De Bock - WhatsApp Xtract
 * Justin Owen - Andriller
 * Mackenzie Bishop - AFLogical OSE
 # GitHub Pages
