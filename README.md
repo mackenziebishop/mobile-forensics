@@ -4,7 +4,7 @@ Demoed By: Mackenzie Bishop
 # AFLogical OSE
 Free software for use by non-law enforcement personnel and forensic analysists. It allows an examiner to extract call logs, contacts, MMS messages, and SMS messages from Android devices. More information available at: https://www.nowsecure.com/
 
-# Installation
+# Installation + Santoku-Linux
 Download the [latest apk](/nowsecure/android-forensics/downloads) or use santoku linux (AFLogical OSE comes pre-installed) \
 Copy the apk to your device and run it or use a command shell and run the script below. \
 Example:```adb install AFLogical-OSE_1.5.2.apk``` \
