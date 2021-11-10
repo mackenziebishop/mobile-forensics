@@ -2,6 +2,8 @@
 44386-01 Digital Forensics
 # Demoed by:
 * Emma Sabio 
+# What is Skype Xtractor 
+Skype Xtractor is an extractor used for the chatting site Skype that allows you to extract info from Skype's databases.
 # Installation 
 Below is a picture of the website that Skype Xtractor can be downloaded at
 ![Screenshot (89)](https://user-images.githubusercontent.com/69916815/140991001-8d550de0-b0bb-4850-b8ec-6cb23a89bdcc.png)
@@ -17,7 +19,9 @@ After the extraction you should see the below files as the contents
 
 # Running Skype Xtractor 
 
-Created for Linux and Windows and is a python tool Click here to read more about running Skype Xtractor: https://www.onworks.net/software/windows/app-skype-xtractor 
+Created for Linux and Windows and is a python tool 
+I tried running it from a desktop operating system and an online workstation without succes. 
+Click here to read more about running Skype Xtractor: https://www.onworks.net/software/windows/app-skype-xtractor 
 
 # What Skype Xtractor produces 
 
