@@ -44,7 +44,7 @@ You can enable USB debugging in Settings under "Developer Options" --> "USB Debu
 ### 1. Installing drivers
 We also need extra drivers to work with the tool. This connects the Android Phone to the tool. These drivers have to be manually installed by doing the following.
 First download the driver installer by downloading it from the website (https://forum.xda-developers.com/t/official-tool-windows-adb-fastboot-and-drivers-15-seconds-adb-installer-v1-4-3.2588979/) or directly here (https://forum.xda-developers.com/attachment.php?attachmentid=4623157&d=1540039037 for current latest version 1.4.3). When you run the installer answer 'Y' to every question and then you will be prompted with a driver install window. Go through the process and see that the driver is installed correctly.
-This driver however seems to have a problem at first. I fixed this by following the tutorial of savadam. https://youtu.be/LbAq6d2Du0U. In short he goes to device manager and reinstals the driver. <img src="https://user-images.githubusercontent.com/55882105/141073088-2ab71947-c68e-470b-9430-674dbf4733af.png" height="400">\
+This driver however seems to have a problem at first. I fixed this by following the tutorial of savadam. https://youtu.be/LbAq6d2Du0U. In short he goes to device manager and reinstals the driver. <img src="https://user-images.githubusercontent.com/55882105/141073088-2ab71947-c68e-470b-9430-674dbf4733af.png" height="400"> \
 
 After doing so the driver will function appropriately.
 
@@ -53,16 +53,16 @@ Make sure you have JAVA installed on your device you can do this by going to the
 
 ### 3. Installation and use of the tool
 If everything is setup we can go over downloading and installing the tool which will give us are required files. I downloaded the tool from the authors Github Page. https://github.com/AbinashBishoyi/WhatsApp-Key-DB-Extractor-UnOfficial. Download the tool by downloading the whole repository. See in the picture below.\
-![image](https://user-images.githubusercontent.com/55882105/141074305-896aa8de-b585-4d2e-ae55-8e0d904d2c57.png)\
+![image](https://user-images.githubusercontent.com/55882105/141074305-896aa8de-b585-4d2e-ae55-8e0d904d2c57.png) \
 
 
 Now extract the folder and look for the "WhatsAppKeyExtract.bat". Run the file and a prompt will appear. If it gives an error just click OK and you should be fine.\
-<img src="https://user-images.githubusercontent.com/55882105/141074894-870b19cb-4dba-4796-b686-ba8416f2ca11.png" height="400">\
-After this you will have to unlock your phone and click "MAKE-BACKUP" (you can enter a password/*SECRET* if you would like).\
-<img src="https://user-images.githubusercontent.com/55882105/141132106-b75205f3-b0f4-44ce-9f2a-15b8832a5786.png" height="400">\
+<img src="https://user-images.githubusercontent.com/55882105/141074894-870b19cb-4dba-4796-b686-ba8416f2ca11.png" height="400"> \
+After this you will have to unlock your phone and click "BACK UP MY DATA" (you can enter a password/*SECRET* if you would like).\
+<img src="https://user-images.githubusercontent.com/55882105/141147191-0a51326a-e671-4d5e-96e4-8bcd9954d290.png" height="400">  \
 
 If the backup is complete you will see in the prompt that the program ended. Last you can verify that everything ran correctly by checking the "extracted folder". If you can see the files msgstore.db and wa.db. Also there should be a folder with the Whatsapp decryption key.\
-![image](https://user-images.githubusercontent.com/55882105/141075500-842b396c-21a9-46a8-96a5-23a695ba4c24.png)\
+![image](https://user-images.githubusercontent.com/55882105/141075500-842b396c-21a9-46a8-96a5-23a695ba4c24.png) \
 Link: https://forum.xda-developers.com/t/tool-whatsapp-key-db-extractor-crypt6-12-non-root-updated-october-2016.2770982/ 
 
 ## Using the tool
