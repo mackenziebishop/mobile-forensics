@@ -36,6 +36,8 @@ The bytes of data is stored inside of a folder in the Android system called gest
 You'll use an editor such as winhex to compare bytes from the file with a generated dictionary to recover that pattern scheme.
 Finally, you use that dictionary and MySQL or any SQLite browser to find the original pattern by Select * from [nameoftable] where hash=[hashesgohere]
 Then that's pretty much all you have to do to get the pattern.
+![image](https://user-images.githubusercontent.com/69910906/141132828-c5ffaeca-50e3-4b2b-a593-b3c5faf69c2f.png)
+
 
 # Credit goes to
 https://www.youtube.com/watch?v=lnN5c40mb0g for just showing what you can do with Andriller. Also I have a report generated from that video in here
