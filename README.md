@@ -1,4 +1,4 @@
-# Mobile Forensics: Skype Xtractor**
+# Mobile Forensics: Skype Xtractor
 44386-01 Digital Forensics
 # Demoed by:
 * Emma Sabio 
