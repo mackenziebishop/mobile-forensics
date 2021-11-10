@@ -23,10 +23,12 @@ Below are pictures of the display in Skype Xtractor
 
 ![1](https://user-images.githubusercontent.com/69916815/141030134-301465a5-95ca-418d-a05c-fccf890ac82b.png)
 
-
+# Cool features 
+Extracts: Accounts, Chats, Contacts
+Has the ability to extract messages stored in Chatsync files (these files store edited or deleted messages)
 
 
 # Resource Links
-Skype Xtractor download and pictures: https://sourceforge.net/projects/skypextractor/  
+Skype Xtractor download, pictures, and info: https://sourceforge.net/projects/skypextractor/  
 Skype Xtractor screenshots: https://www.onworks.net/software/windows/app-skype-xtractor
 # Credits
