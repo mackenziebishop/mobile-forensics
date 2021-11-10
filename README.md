@@ -17,6 +17,8 @@ After downloading the file, you will need to extract the contents from its zip f
 After the extraction you should see the below files as the contents 
 ![Screenshot (90)](https://user-images.githubusercontent.com/69916815/140991088-aa32e724-1435-420a-9636-18d14b924168.png)
 
+Inorder to read any history saved in the main Skype file, you will need to use a SQLite Brower.
+https://answers.microsoft.com/en-us/skype/forum/all/chat-history-maindb-import-from-skype-7xx-to-8xx/16106b88-fd86-482a-ab98-f8495b871336 
 # Running Skype Xtractor 
 
 Created for Linux and Windows and is a python tool 
@@ -43,4 +45,5 @@ Has the ability to extract messages stored in Chatsync files (these files store 
 # Resource Links/Credits
 Skype Xtractor download, pictures, and info: https://sourceforge.net/projects/skypextractor/  
 Skype Xtractor screenshots: https://www.onworks.net/software/windows/app-skype-xtractor
+Skype main file help: https://answers.microsoft.com/en-us/skype/forum/all/chat-history-maindb-import-from-skype-7xx-to-8xx/16106b88-fd86-482a-ab98-f8495b871336
 
