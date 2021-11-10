@@ -1,5 +1,6 @@
 # Mobile Forensics: Skype Xtractor
 44386-01 Digital Forensics
+Didn't give results 
 # Demoed by:
 * Emma Sabio 
 # What is Skype Xtractor 
@@ -22,7 +23,7 @@ https://answers.microsoft.com/en-us/skype/forum/all/chat-history-maindb-import-f
 # Running Skype Xtractor 
 
 Created for Linux and Windows and is a python tool 
-I tried running it from a desktop operating system and an online workstation without success. 
+I tried running it from a desktop operating system and an online workstation without success. The online workstation ended with a series of useless downloads and no ability to run the tool. 
 Click here to read more about running Skype Xtractor: https://www.onworks.net/software/windows/app-skype-xtractor 
 
 # What Skype Xtractor produces 
