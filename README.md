@@ -70,7 +70,7 @@ If you would run it now you will get an error, saying that the table "chat_list"
 
 Now you can run the program. It will generate an HTML that will automatically open in your browser whenever it finishes.\
 You can see your messages, people and groups here and by using CTRL+F it is easy to search through all of this.
-Below a preview of the generated HTML file.
+Below a preview of the generated HTML file.\
 ![image](https://user-images.githubusercontent.com/55882105/141079395-6ced9891-00ed-4ab7-91b8-00176f20d1d5.png)
 
 
