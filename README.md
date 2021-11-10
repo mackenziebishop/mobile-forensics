@@ -23,7 +23,8 @@ We're in a world where cell phones hold a TON of information benefiting the digi
 Decrypting and Extracting data is a few of the key points in helping find valuable information
 With Andriller, you can gain access to call logs, messages, emails, and social media activity.
 It'll access a lot of the databases inside of the device allowing you to piick and choose which data you would like to extract.
-![image](https://user-images.githubusercontent.com/69910906/141035206-22fcd5ab-5335-444b-8284-1c57313de663.png)
+![Inked141035206-22fcd5ab-5335-444b-8284-1c57313de663_LI](https://user-images.githubusercontent.com/69910906/141134760-cd676dd0-eb0d-4d08-8941-bbb3d76fbe87.jpg)
+
 Then once it searches and finds all of the data inside the database of the device, it will print it out in a beautiful format like so.
 ![image](https://user-images.githubusercontent.com/69910906/141051652-7d16513e-7bfc-4a0c-864d-97787025654a.png)
 # Let's talk about one of the features: Cracking the Lockscreen
