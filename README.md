@@ -35,9 +35,8 @@ and creates the bytes of data.
 The bytes of data is stored inside of a folder in the Android system called gesture.key
 You'll use an editor such as winhex to compare bytes from the file with a generated dictionary to recover that pattern scheme.
 Finally, you use that dictionary and MySQL or any SQLite browser to find the original pattern by Select * from [nameoftable] where hash=[hashesgohere]
-Then that's pretty much all there is to it. You get a generated hash like the one below.
+Then that's pretty much all you have to do to get the pattern.
 
-![image](https://user-images.githubusercontent.com/69910906/141033023-d3b338f2-015c-4e78-a066-3c97127d72e1.png)
 # Credit goes to
 https://www.youtube.com/watch?v=lnN5c40mb0g for just showing what you can do with Andriller. Also I have a report generated from that video in here
 https://github.com/den4uk/andriller for being the creators and making a Github showcasing Andriller's features and requirements
