@@ -1,6 +1,6 @@
 # Mobile Forensics: Skype Xtractor
 44386-01 Digital Forensics
-Didn't give results 
+* Didn't give results 
 # Demoed by:
 * Emma Sabio 
 # What is Skype Xtractor 
@@ -20,7 +20,7 @@ After the extraction you should see the below files as the contents
 
 Inorder to read any history saved in the main Skype file, you will need to use a SQLite Brower.
 https://answers.microsoft.com/en-us/skype/forum/all/chat-history-maindb-import-from-skype-7xx-to-8xx/16106b88-fd86-482a-ab98-f8495b871336 
-# Running Skype Xtractor 
+# Running Skype Xtractor and errors 
 
 Created for Linux and Windows and is a python tool 
 I tried running it from a desktop operating system and an online workstation without success. The online workstation ended with a series of useless downloads and no ability to run the tool. 
