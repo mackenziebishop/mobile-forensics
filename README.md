@@ -10,8 +10,8 @@ Then, use **python Andriller.py** so that the program runs, the data is download
 # Using VMWare to get the android Emulator!
 There's websites out there that allows you to download the Virtual Machine for Android. I tried to do it and I failed miserably. 
 But when you're going through the steps that you find either you 
-On this website https://www.howtogeek.com/164570/HOW-TO-INSTALL-ANDROID-IN-VIRTUALBOX/
-Or you can go to this website https://itechbrand.com/how-to-install-android-in-virtualbox/
+On this website https://www.howtogeek.com/164570/HOW-TO-INSTALL-ANDROID-IN-VIRTUALBOX/.
+You can also go to this website https://itechbrand.com/how-to-install-android-in-virtualbox/.
 If you go to the howtogeek website, you'll find how to install the proper .iso file for the Virtual Machine
 I'd prefer the itechbrand website because it shows you step by step with pictures
 The virtual machine setup should look like this:![image](https://user-images.githubusercontent.com/69910906/141039454-93a3a7fd-90f4-428c-ab04-fa74d211f56f.png)
@@ -36,6 +36,7 @@ The bytes of data is stored inside of a folder in the Android system called gest
 You'll use an editor such as winhex to compare bytes from the file with a generated dictionary to recover that pattern scheme.
 Finally, you use that dictionary and MySQL or any SQLite browser to find the original pattern by Select * from [nameoftable] where hash=[hashesgohere]
 Then that's pretty much all there is to it. You get a generated hash like the one below.
+
 ![image](https://user-images.githubusercontent.com/69910906/141033023-d3b338f2-015c-4e78-a066-3c97127d72e1.png)
 # Credit goes to
 https://www.youtube.com/watch?v=lnN5c40mb0g for just showing what you can do with Andriller. Also I have a report generated from that video in here
