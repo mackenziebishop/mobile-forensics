@@ -42,3 +42,4 @@ Then that's pretty much all you have to do to get the pattern.
 # Credit goes to
 https://www.youtube.com/watch?v=lnN5c40mb0g for just showing what you can do with Andriller. Also I have a report generated from that video in here
 https://github.com/den4uk/andriller for being the creators and making a Github showcasing Andriller's features and requirements
+https://resources.infosecinstitute.com/topic/android-forensics-cracking-the-pattern-lock-protection/ for giving the gesture hash code that helped demonstrate the lock screen passwords!
