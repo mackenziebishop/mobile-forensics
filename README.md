@@ -44,7 +44,7 @@ You can enable USB debugging in Settings under "Developer Options" --> "USB Debu
 ### 1. Installing drivers
 We also need extra drivers to work with the tool. This connects the Android Phone to the tool. These drivers have to be manually installed by doing the following.
 First download the driver installer by downloading it from the website (https://forum.xda-developers.com/t/official-tool-windows-adb-fastboot-and-drivers-15-seconds-adb-installer-v1-4-3.2588979/) or directly here (https://forum.xda-developers.com/attachment.php?attachmentid=4623157&d=1540039037 for current latest version 1.4.3). When you run the installer answer 'Y' to every question and then you will be prompted with a driver install window. Go through the process and see that the driver is installed correctly.
-This driver however seems to have a problem at first. I fixed this by following the tutorial of savadam. https://youtu.be/LbAq6d2Du0U. In short he goes to device manager and reinstals the driver. <img src="https://user-images.githubusercontent.com/55882105/141073088-2ab71947-c68e-470b-9430-674dbf4733af.png" height="400"> \
+This driver however seems to have a problem at first. I fixed this by following the tutorial of savadam. https://youtu.be/LbAq6d2Du0U. In short he goes to device manager and reinstals the driver.\ <img src="https://user-images.githubusercontent.com/55882105/141073088-2ab71947-c68e-470b-9430-674dbf4733af.png" height="400"> \
 
 After doing so the driver will function appropriately.
 
