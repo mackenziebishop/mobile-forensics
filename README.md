@@ -11,7 +11,7 @@
 
 
 * Mackenzie Bishop - AFLogical OSE
-# GitHub Pages
+# Branches
 * Andriller: https://github.com/mackenziebishop/mobile-forensics/blob/Justin-Owen-Andriller/README.md
 * Skype Xtractor: https://github.com/mackenziebishop/mobile-forensics/blob/Emma-Sabio/README.md
 # Resource Links
