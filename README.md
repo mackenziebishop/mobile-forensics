@@ -6,7 +6,7 @@
 
 * Jens De Bock - WhatsApp Xtract
 * Justin Owen - Andriller
-![Gamer](https://user-images.githubusercontent.com/69910906/141053327-6244cba8-fdca-48b4-bf60-5252465098d4.jpg)
+![Gamer]("https://user-images.githubusercontent.com/69910906/141053327-6244cba8-fdca-48b4-bf60-5252465098d4.jpg" width="150" height="275")
 
 * Mackenzie Bishop - AFLogical OSE
 # GitHub Pages
