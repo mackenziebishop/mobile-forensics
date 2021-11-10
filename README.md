@@ -8,7 +8,10 @@
 * Justin Owen - Andriller
 <img src="https://user-images.githubusercontent.com/69910906/141055695-5c5d0435-9b3c-4f90-a75b-77cfef92b5e0.png" witdth="150" height="275">
 
-* Mackenzie Bishop - AFLogical OSE
+* Mackenzie Bishop - AFLogical OSE \
+\
+![image](https://user-images.githubusercontent.com/69914681/141071381-d562b2eb-3646-4a49-bfe3-7afbea9da6a3.png)
+
 # Branches
 * Andriller: https://github.com/mackenziebishop/mobile-forensics/blob/Justin-Owen-Andriller/README.md
 * AFLogical OSE: https://github.com/mackenziebishop/mobile-forensics/blob/mackenzie-bishop/README.md
