@@ -1,5 +1,5 @@
 # Mobile Forensics: AFLogical OSE
-44386-01 Digital Forensics \
+44-386-01 Digital Forensics \
 Demoed By: Mackenzie Bishop
 # AFLogical OSE
 Free software for use by non-law enforcement personnel and forensic analysists. It allows an examiner to extract call logs, contacts, MMS messages, and SMS messages from Android devices. More information available at: https://www.nowsecure.com/
@@ -31,9 +31,7 @@ When prompted, enter the following commands into the shell: \
 \
 ```aflogical-ose```\
 \
-Enter your password after connecting your Android device to a USB cable. After the build is successful, press enter to pull the data to the SD card stored in the Android device.\
-\
-After moving the APK file to my phone via USB cable, I was able to install it as an application. After launching the app, select all boxes available and select 'Capture'. In VirtualBox, press enter to pull the data from the SD card stored in the Android device to the VM directory.\
+Enter your password after connecting your Android device to a USB cable. After moving the APK file to my phone via USB cable, I was able to install it as an application. After launching the app, select all boxes available and select 'Capture' on your Android device. In VirtualBox, press enter to pull the data from the SD card stored in the Android device to the VM directory.\
 \
 The files typically save as .csv and .xml files, making them easier to navigate and sort through using Excel.
 
