@@ -1,3 +1,4 @@
+# Before reading, I should clarify that this is what it SHOULD look like. I could not get it to work out the way it's supposed to work out. But the steps are here and they do work. I just messed up somewhere along the way
 # What is Andriller?
 Andriller is a software utility that has a collection of forensics tools for smartphones. It can crack Lockscreens with Patterns, PINs, or passwords, decode app data from Android databases, decodes and extracts information. The reports generated are in HTML and Excel Formats.
 # How do you use it?
