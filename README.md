@@ -5,6 +5,7 @@
 # Installation 
 Below is a picture of the website that Skype Xtractor can be downloaded at
 ![Screenshot (89)](https://user-images.githubusercontent.com/69916815/140991001-8d550de0-b0bb-4850-b8ec-6cb23a89bdcc.png)
+https://sourceforge.net/projects/skypextractor/  
 
 After downloading the file, you will need to extract the contents from its zip file
 ![Screenshot (91)](https://user-images.githubusercontent.com/69916815/140991158-ee646535-3c76-4bb5-a33f-4e2305c94231.png)
